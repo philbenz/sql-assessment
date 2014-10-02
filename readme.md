@@ -6,14 +6,14 @@ store.
 
 Our grocery list looks like the following:
 
-milk - 2 gallons
-eggs - 1 dozen
-butter - 12 sticks
-flour - 1 pound
-sour cream - 1 dollop
-apples - 2 bushels
-sugar - 2 pounds
-oj - 3 gallons
+* milk - 2 gallons
+* eggs - 1 dozen
+* butter - 12 sticks
+* flour - 1 pound
+* sour cream - 1 dollop
+* apples - 2 bushels
+* sugar - 2 pounds
+* oj - 3 gallons
 
 __Task 1:__
 Write SQL queries that will create a table that stores your
